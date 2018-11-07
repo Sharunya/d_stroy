@@ -5,13 +5,13 @@
 *.iml
 
 # dependencies
-/node_modules
+node_modules
 
 # testing
 /coverage
 
 # production
-/build
+/client/build/
 
 # misc
 .DS_Store
